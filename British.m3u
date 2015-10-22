@@ -1,151 +1,103 @@
 #EXTM3U
-#EXTINF:-1,BT_Sport_1_EN 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/246.ts 
-#EXTINF:-1,BT_Sport_2_EN 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/247.ts 
-#EXTINF:-1,uk_TLC 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/245.ts 
-#EXTINF:-1,SkyAtlantic 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/238.ts 
-#EXTINF:-1,ESPN_EN 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/256.ts 
-#EXTINF:-1,fox_news_EN 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/257.ts 
-#EXTINF:-1,History_EN 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/253.ts 
-#EXTINF:-1,Nat_Geo_Wild_EN 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/249.ts 
-#EXTINF:-1,PBS_America_EN 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/244.ts 
-#EXTINF:-1,Cartoonito_EN 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/241.ts 
-#EXTINF:-1,FOX_EN 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/248.ts 
-#EXTINF:-1,Nat_Geo_EN 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/239.ts 
-#EXTINF:-1,sky_action_EN 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/255.ts 
-#EXTINF:-1,Sky_Comedy_EN 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/237.ts 
-#EXTINF:-1,Sky_Disney_EN 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/250.ts 
-#EXTINF:-1,Sky_Family_EN 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/254.ts 
-#EXTINF:-1,Sky_Livingit_EN 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/252.ts 
-#EXTINF:-1,sky_Premiere_EN 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/242.ts 
-#EXTINF:-1,uk_SYFY 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/243.ts 
-#EXTINF:-1,Sky_Select_EN 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/251.ts 
-#EXTINF:-1,Sky_Sports_1_EN 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/235.ts 
-#EXTINF:-1,Sky_Sports_2_EN 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/236.ts 
-#EXTINF:-1,Sky_Sports_3_EN 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/240.ts 
-#EXTINF:-1,uk_ANI 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/370.ts 
-#EXTINF:-1,uk_drama 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/402.ts 
-#EXTINF:-1,uk_disney_channel 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/389.ts 
-#EXTINF:-1,uk_alibi 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/405.ts 
-#EXTINF:-1,uk_BBC 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/369.ts 
-#EXTINF:-1,uk_atraces 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/388.ts 
-#EXTINF:-1,uk_CNN 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/367.ts 
-#EXTINF:-1,uk_channel5 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/386.ts 
-#EXTINF:-1,uk_CAR 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/368.ts 
-#EXTINF:-1,uk_boxnation 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/387.ts 
-#EXTINF:-1,uk_bbc2 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/364.ts 
-#EXTINF:-1,uk_bbc1 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/365.ts 
-#EXTINF:-1,uk_disneyjunior 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/403.ts 
-#EXTINF:-1,uk_DIS 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/366.ts 
-#EXTINF:-1,uk_dave 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/404.ts 
-#EXTINF:-1,uk_yesterday 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/390.ts 
-#EXTINF:-1,uk_watch 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/391.ts 
-#EXTINF:-1,uk_tv3ir 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/379.ts 
-#EXTINF:-1,uk_tg4 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/380.ts 
-#EXTINF:-1,uk_skythriller 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/392.ts 
-#EXTINF:-1,uk_skyspf1 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/376.ts 
-#EXTINF:-1,uk_skysp5 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/377.ts 
-#EXTINF:-1,uk_skysp4 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/378.ts 
-#EXTINF:-1,uk_skypremier-plus 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/393.ts 
-#EXTINF:-1,uk_skyhorr 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/394.ts 
-#EXTINF:-1,uk_skygreats 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/395.ts 
-#EXTINF:-1,uk_skydrama 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/396.ts 
-#EXTINF:-1,uk_sky-plus 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/397.ts 
-#EXTINF:-1,uk_SetantaIreland 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/381.ts 
-#EXTINF:-1,uk_rtejr 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/382.ts 
-#EXTINF:-1,uk_rte1 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/383.ts 
-#EXTINF:-1,uk_really 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/398.ts 
-#EXTINF:-1,uk_NBA 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/371.ts 
-#EXTINF:-1,uk_MTV 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/372.ts 
-#EXTINF:-1,uk_itv4 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/363.ts 
-#EXTINF:-1,uk_itv3 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/362.ts 
-#EXTINF:-1,uk_itv2 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/361.ts 
-#EXTINF:-1,uk_itv1 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/360.ts 
-#EXTINF:-1,uk_home 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/399.ts 
-#EXTINF:-1,uk_HDS 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/373.ts 
-#EXTINF:-1,uk_goldfood 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/400.ts 
-#EXTINF:-1,uk_film4 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/384.ts 
-#EXTINF:-1,uk_eden 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/401.ts 
-#EXTINF:-1,uk_E4 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/385.ts 
-#EXTINF:-1,uk_DSW 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/374.ts 
-#EXTINF:-1,uk_DSS 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/375.ts 
-#EXTINF:-1,sky_sport1_de 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/170.ts 
-#EXTINF:-1,sky_sport2_de 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/171.ts 
-#EXTINF:-1,Bundesliga 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/172.ts 
-#EXTINF:-1,sky_action_de 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/174.ts 
-#EXTINF:-1,sky_cinema_de 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/175.ts 
-#EXTINF:-1,sky_cinema_plus_24 
-http://globe2.midomed.com:80/live/omar59kdj/KBjiyWtKu1/173.ts
+#EXTINF:-1,IPTVSAGA: RTE ONE
+rtmp://$OPT:rtmp-raw=rtmp://176.31.235.37/live11 playpath=RTEOne?token=omMJGkVQpj0pP9sxxPgAWA&e=1435365993&u=30832 swfUrl=http://gobox.tv/assets/player/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://gobox.tv/player
+#EXTINF:-1,IPTVSAGA: RTE TWO
+rtmp://$OPT:rtmp-raw=rtmp://37.187.149.103/live11 playpath=RTETWO?token=Zw_VjIvBkBkS6tcgrhsVgg&e=1435366001&u=30832 swfUrl=http://gobox.tv/assets/player/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://gobox.tv/player
+#EXTINF:-1,IPTVSAGA: sky1
+rtmp://$OPT:rtmp-raw=rtmp://176.31.235.37/live16 playpath=Sky1?token=F03yWMMAw83fQwMtlFBDwQ&e=1435366008&u=30832 swfUrl=http://gobox.tv/assets/player/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://gobox.tv/player
+#EXTINF:-1,IPTVSAGA: sky2
+rtmp://$OPT:rtmp-raw=rtmp://37.187.149.103/live16 playpath=Sky2?token=sbSruGSmj46f2pUCLnoWNw&e=1435366014&u=30832 swfUrl=http://gobox.tv/assets/player/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://gobox.tv/player
+#EXTINF:-1,IPTVSAGA: Sky Atlantic HD
+rtmp://$OPT:rtmp-raw=rtmp://37.187.149.103/live16 playpath=SkyAtlantic?token=gBndAjtIsQKINxcNVunviA&e=1435366020&u=30832 swfUrl=http://gobox.tv/assets/player/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://gobox.tv/player
+#EXTINF:-1,IPTVSAGA: CBS Reality
+rtmp://$OPT:rtmp-raw=rtmp://176.31.235.37/live17 playpath=CBSRealityUK?token=Np27hIB_D_SituPrKOysqA&e=1435366025&u=30832 swfUrl=http://gobox.tv/assets/player/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://gobox.tv/player
+#EXTINF:-1,IPTVSAGA: Horror Channel
+rtmp://$OPT:rtmp-raw=rtmp://176.31.235.37/live17 playpath=HorrorChannelUK?token=49nUQA9ljk1_xQ9KJD7T7Q&e=1435366030&u=30832 swfUrl=http://gobox.tv/assets/player/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://gobox.tv/player
+#EXTINF:-1,IPTVSAGA: ITV
+rtmp://$OPT:rtmp-raw=rtmp://37.187.149.103/live18 playpath=ITV?token=eyWCiawvQq8_SrnL1Ron5Q&e=1435366035&u=30832 swfUrl=http://gobox.tv/assets/player/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://gobox.tv/player
+#EXTINF:-1,IPTVSAGA: ITV3
+rtmp://$OPT:rtmp-raw=rtmp://37.187.149.103/live18 playpath=ITV3?token=FxVo4eGNcXuRUkA4Y64nBQ&e=1435366043&u=30832 swfUrl=http://gobox.tv/assets/player/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://gobox.tv/player
+#EXTINF:-1,IPTVSAGA: ITV2
+rtmp://$OPT:rtmp-raw=rtmp://37.187.149.103/live18 playpath=ITV2?token=3JBuzZowVpTTk65WbqM9Ag&e=1435366050&u=30832 swfUrl=http://gobox.tv/assets/player/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://gobox.tv/player
+#EXTINF:-1,IPTVSAGA: ITV4
+rtmp://$OPT:rtmp-raw=rtmp://37.187.149.103/live18 playpath=ITV4?token=CxYWL64DXuqUAFhr6JoRkw&e=1435366055&u=30832 swfUrl=http://gobox.tv/assets/player/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://gobox.tv/player
+#EXTINF:-1,IPTVSAGA: Setanta Sports
+rtmp://$OPT:rtmp-raw=rtmp://176.31.235.37/live8 playpath=SetantaIreland?token=41HKDT3PAcJZa8giqgl2gw&e=1435366062&u=30832 swfUrl=http://gobox.tv/assets/player/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://gobox.tv/player
+#EXTINF:-1,IPTVSAGA: Premier Sports
+rtmp://$OPT:rtmp-raw=rtmp://37.187.149.103/live8 playpath=PremierSports?token=QRdNmDMCjrGddZRJv_JQIg&e=1435366072&u=30832 swfUrl=http://gobox.tv/assets/player/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://gobox.tv/player
+#EXTINF:-1,IPTVSAGA: ESPN
+rtmp://$OPT:rtmp-raw=rtmp://37.187.149.103/live10 playpath=ESPNHD?token=zSW4pOZ-yOYX6_BPWeprBw&e=1435366079&u=30832 swfUrl=http://gobox.tv/assets/player/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://gobox.tv/player
+#EXTINF:-1,IPTVSAGA: NBA
+rtmp://$OPT:rtmp-raw=rtmp://37.187.149.103/live12 playpath=NBA?token=u9k9MCM2vfo0i-SdASzwMw&e=1435366083&u=30832 swfUrl=http://gobox.tv/assets/player/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://gobox.tv/player
+#EXTINF:-1,IPTVSAGA: Sky Sports F1
+rtmp://$OPT:rtmp-raw=rtmp://37.187.149.103/live10 playpath=SkySportsF1?token=3oA6XCMNLSROqQF4YxW4XQ&e=1435366089&u=30832 swfUrl=http://gobox.tv/assets/player/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://gobox.tv/player
+#EXTINF:-1,IPTVSAGA: Sky Sports 1
+rtmp://$OPT:rtmp-raw=rtmp://176.31.235.37/live10 playpath=SkySports1?token=zKXCkfyM9Tn26ZcId0EYGA&e=1435366099&u=30832 swfUrl=http://gobox.tv/assets/player/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://gobox.tv/player
+#EXTINF:-1,IPTVSAGA: Sky Sports 2
+rtmp://$OPT:rtmp-raw=rtmp://176.31.235.37/live10 playpath=SkySports2?token=jwnVlOWSYSNlSttOxhVy5A&e=1435366104&u=30832 swfUrl=http://gobox.tv/assets/player/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://gobox.tv/player
+#EXTINF:-1,IPTVSAGA: Sky Sports 3
+rtmp://$OPT:rtmp-raw=rtmp://176.31.235.37/live10 playpath=SkySports3?token=XAWOhmyxS58wrFKZIJMPqA&e=1435366109&u=30832 swfUrl=http://gobox.tv/assets/player/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://gobox.tv/player
+#EXTINF:-1,IPTVSAGA: Sky Sports 4
+rtmp://$OPT:rtmp-raw=rtmp://176.31.235.37/live11 playpath=SkySports4?token=iLW3zwBS3Q8UROGHyiWo3Q&e=1435366115&u=30832 swfUrl=http://gobox.tv/assets/player/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://gobox.tv/player
+#EXTINF:-1,IPTVSAGA: Sky Sports 5
+rtmp://$OPT:rtmp-raw=rtmp://37.187.149.103/live11 playpath=SkySports5?token=OX4Sov1Pg6xdMjbCVvjMYQ&e=1435366121&u=30832 swfUrl=http://gobox.tv/assets/player/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://gobox.tv/player
+#EXTINF:-1,IPTVSAGA: Sky Sports News HQ
+rtmp://$OPT:rtmp-raw=rtmp://37.187.149.103/live16 playpath=SkySpNewsHQ?token=-ddDHePuGtxQ371ogfxAdg&e=1435366127&u=30832 swfUrl=http://gobox.tv/assets/player/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://gobox.tv/player
+#EXTINF:-1,IPTVSAGA: BT Sport 1
+rtmp://$OPT:rtmp-raw=rtmp://176.31.235.37/live10 playpath=BTSport1HD?token=INilO-WN_iPB5BO-uga4Uw&e=1435366132&u=30832 swfUrl=http://gobox.tv/assets/player/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://gobox.tv/player
+#EXTINF:-1,IPTVSAGA: BT Sport 2
+rtmp://$OPT:rtmp-raw=rtmp://37.187.149.103/live10 playpath=BTSport2HD?token=nqd_JghliSIeZ2Ojx_gQJg&e=1435366138&u=30832 swfUrl=http://gobox.tv/assets/player/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://gobox.tv/player
+#EXTINF:-1,IPTVSAGA: British Eurosport
+rtmp://$OPT:rtmp-raw=rtmp://176.31.235.37/live16 playpath=BritishEurosport?token=jNoyxa-3TIraIM1-Cu74wg&e=1435366143&u=30832 swfUrl=http://gobox.tv/assets/player/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://gobox.tv/player
+#EXTINF:-1,IPTVSAGA: British Eurosport 2
+rtmp://$OPT:rtmp-raw=rtmp://176.31.235.37/live16 playpath=BritishEurosport2?token=TFyyOUywm07yerusINJTYw&e=1435366148&u=30832 swfUrl=http://gobox.tv/assets/player/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://gobox.tv/player
+#EXTINF:-1,IPTVSAGA: MUTV
+rtmp://$OPT:rtmp-raw=rtmp://176.31.235.37/live10 playpath=MUTV?token=0JEdl51RazNzpUhjqpjy4A&e=1435366152&u=30832 swfUrl=http://gobox.tv/assets/player/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://gobox.tv/player
+#EXTINF:-1,IPTVSAGA: Chelsea TV
+rtmp://$OPT:rtmp-raw=rtmp://176.31.235.37/live16 playpath=ChelseaTV?token=qAC39EbTgf4RNBtuD2nVSA&e=1435366160&u=30832 swfUrl=http://gobox.tv/assets/player/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://gobox.tv/player
+#EXTINF:-1,IPTVSAGA: Box Nation
+rtmp://$OPT:rtmp-raw=rtmp://176.31.235.37/live17 playpath=BoxNation?token=fImd3gQIP0gsdOJ4IcgtCw&e=1435366165&u=30832 swfUrl=http://gobox.tv/assets/player/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://gobox.tv/player
+#EXTINF:-1,IPTVSAGA: Discovery Channel
+rtmp://$OPT:rtmp-raw=rtmp://37.187.149.103/live7 playpath=Discovery?token=t2DnW8rRA1WR9-8YSR3Z8w&e=1435366174&u=30832 swfUrl=http://gobox.tv/assets/player/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://gobox.tv/player
+#EXTINF:-1,IPTVSAGA: Discovery History
+rtmp://$OPT:rtmp-raw=rtmp://37.187.149.103/live7 playpath=DiscHistory?token=G9s7c1U77yp9117nnbgP7g&e=1435366177&u=30832 swfUrl=http://gobox.tv/assets/player/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://gobox.tv/player
+#EXTINF:-1,IPTVSAGA: Discovery Turbo
+rtmp://$OPT:rtmp-raw=rtmp://37.187.149.103/live7 playpath=DiscTurbo?token=npTnVCQIehoPBSLi5C_iDQ&e=1435366182&u=30832 swfUrl=http://gobox.tv/assets/player/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://gobox.tv/player
+#EXTINF:-1,IPTVSAGA: Discovery Science
+rtmp://$OPT:rtmp-raw=rtmp://176.31.235.37/live7 playpath=DiscScience?token=scjgUK4uyOQkiwHU34y_Zw&e=1435366185&u=30832 swfUrl=http://gobox.tv/assets/player/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://gobox.tv/player
+#EXTINF:-1,IPTVSAGA: ID
+rtmp://$OPT:rtmp-raw=rtmp://37.187.149.103/live7 playpath=ID?token=dbGO1gJMuo23H8gP1FgWbA&e=1435366188&u=30832 swfUrl=http://gobox.tv/assets/player/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://gobox.tv/player
+#EXTINF:-1,IPTVSAGA: Animal Planet
+rtmp://$OPT:rtmp-raw=rtmp://176.31.235.37/live7 playpath=AnimalPlanet?token=_u9qnEOTA8jDXBlNeiSwBA&e=1435366192&u=30832 swfUrl=http://gobox.tv/assets/player/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://gobox.tv/player
+#EXTINF:-1,IPTVSAGA: Travel Channel
+rtmp://$OPT:rtmp-raw=rtmp://37.187.149.103/live17 playpath=TravelChannelUK?token=YQlQ4FBQBfuxJ3xd8_IxiQ&e=1435366196&u=30832 swfUrl=http://gobox.tv/assets/player/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://gobox.tv/player
+#EXTINF:-1,IPTVSAGA: Sky Movies Premiere
+rtmp://$OPT:rtmp-raw=rtmp://176.31.235.37/live6 playpath=SkyPremiere?token=_zGu22rvoMPzKPWfzXWW8Q&e=1435366201&u=30832 swfUrl=http://gobox.tv/assets/player/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://gobox.tv/player
+#EXTINF:-1,IPTVSAGA: Sky Movies Select
+rtmp://$OPT:rtmp-raw=rtmp://176.31.235.37/live6 playpath=SkySelect?token=yzY1CAnqot39AVO0SbbeEQ&e=1435366209&u=30832 swfUrl=http://gobox.tv/assets/player/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://gobox.tv/player
+#EXTINF:-1,IPTVSAGA: Sky Movies Comedy
+rtmp://$OPT:rtmp-raw=rtmp://176.31.235.37/live6 playpath=SkyComedy?token=AEfaARyefhonzJxFOY0tEQ&e=1435366216&u=30832 swfUrl=http://gobox.tv/assets/player/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://gobox.tv/player
+#EXTINF:-1,IPTVSAGA: Sky Movies Greats
+rtmp://$OPT:rtmp-raw=rtmp://37.187.149.103/live6 playpath=SkyGreats?token=hjeEe615qxWge7U_PhBxrQ&e=1435366221&u=30832 swfUrl=http://gobox.tv/assets/player/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://gobox.tv/player
+#EXTINF:-1,IPTVSAGA: Sky Movies Action
+rtmp://$OPT:rtmp-raw=rtmp://176.31.235.37/live6 playpath=SkyAction?token=6XJxKOSrXaeLoSaiYoriDQ&e=1435366227&u=30832 swfUrl=http://gobox.tv/assets/player/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://gobox.tv/player
+#EXTINF:-1,IPTVSAGA: Sky Movies Family
+rtmp://$OPT:rtmp-raw=rtmp://176.31.235.37/live6 playpath=SkyFamily?token=q8WiiBSpTs8F8FaH_ERePA&e=1435366233&u=30832 swfUrl=http://gobox.tv/assets/player/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://gobox.tv/player
+#EXTINF:-1,IPTVSAGA: Sky Movies Thriller
+rtmp://$OPT:rtmp-raw=rtmp://37.187.149.103/live6 playpath=SkyThriller?token=aRUrgH7BKs63nIoHxh8NSw&e=1435366238&u=30832 swfUrl=http://gobox.tv/assets/player/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://gobox.tv/player
+#EXTINF:-1,IPTVSAGA: Sky Movies Dramarom
+rtmp://$OPT:rtmp-raw=rtmp://37.187.149.103/live6 playpath=SkyDramaRom?token=vaZpfOFu8f0CEDnbLfjK-w&e=1435366247&u=30832 swfUrl=http://gobox.tv/assets/player/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://gobox.tv/player
+#EXTINF:-1,IPTVSAGA: Sky Movies Scifi Horror
+rtmp://$OPT:rtmp-raw=rtmp://176.31.235.37/live6 playpath=SkyScFiHorror?token=_QpTi_Qw5hAb-U8KUTgtCg&e=1435366253&u=30832 swfUrl=http://gobox.tv/assets/player/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://gobox.tv/player
+#EXTINF:-1,IPTVSAGA: MTV Dance
+rtmp://$OPT:rtmp-raw=rtmp://37.187.149.103/live8 playpath=MTVDANCE?token=mSWC_9j3jmdU0dRt_7juAg&e=1435366261&u=30832 swfUrl=http://gobox.tv/assets/player/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://gobox.tv/player
+#EXTINF:-1,IPTVSAGA: MTV Hits
+rtmp://$OPT:rtmp-raw=rtmp://37.187.149.103/live8 playpath=MTVHITS?token=AX7ErAgRTatVFpIb0WAjww&e=1435366264&u=30832 swfUrl=http://gobox.tv/assets/player/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://gobox.tv/player
+#EXTINF:-1,IPTVSAGA: MTV Base
+rtmp://$OPT:rtmp-raw=rtmp://37.187.149.103/live8 playpath=MTVBASE?token=A_cotSBTq8cqRQnRpTs6Jw&e=1435366272&u=30832 swfUrl=http://gobox.tv/assets/player/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://gobox.tv/player
+#EXTINF:-1,IPTVSAGA: MTV Rocks
+rtmp://$OPT:rtmp-raw=rtmp://176.31.235.37/live8 playpath=MTVROCKS?token=6qogzZ29jNPj467LxykW2g&e=1435366277&u=30832 swfUrl=http://gobox.tv/assets/player/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://gobox.tv/player
+#EXTINF:-1,IPTVSAGA: VIVA
+rtmp://$OPT:rtmp-raw=rtmp://37.187.149.103/live8 playpath=VIVA?token=JWJtwUv6hBmVM_hKRLIuDg&e=1435366281&u=30832 swfUrl=http://gobox.tv/assets/player/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://gobox.tv/player
+#EXTINF:-1,IPTVSAGA: VH1
+rtmp://$OPT:rtmp-raw=rtmp://37.187.149.103/live4 playpath=VH1European?token=c6YxQz8BlMWiIdIYBNRXQw&e=1435366285&u=30832 swfUrl=http://gobox.tv/assets/player/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://gobox.tv/player
